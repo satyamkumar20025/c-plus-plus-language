@@ -1,1 +1,0 @@
-# c-plus-plus-language
